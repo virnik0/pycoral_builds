@@ -1,7 +1,11 @@
 **Used sources:**
+
 https://github.com/feranick/pycoral
+
 https://github.com/feranick/libcoral
+
 https://github.com/tensorflow/tensorflow
+
 https://github.com/feranick/libedgetpu
 
 Big thanks to @Feranick for his assistance, namely pointing out compatibility issues.
